@@ -1,0 +1,19 @@
+[project]
+name = "jcode-fastapi"
+version = "0.1.0"
+description = "FastAPI dependency injection edges for jcode"
+readme = "README.md"
+requires-python = ">=3.12"
+license = { text = "MIT" }
+authors = [{ name = "Joel Thomas", email = "joel@codewithjoe.in" }]
+dependencies = ["jcode>=0.1.0"]
+
+[project.urls]
+Repository = "https://github.com/codewithjoe-tech/jcode-fastapi"
+
+[project.entry-points."jcode.plugins"]
+fastapi = "jcode_fastapi.plugin:create"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
