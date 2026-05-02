@@ -36,7 +36,7 @@ So if you change `get_current_user`, `jcode_blast_radius` shows every route that
 
 ## Part of the jcode ecosystem
 
-- [jcode](https://github.com/codewithjoes-tech/jcode) — core CLI and MCP server
+- [jcode](https://github.com/codewithjoe-tech/jcode) — core CLI and MCP server
 - [jcode-registry](https://github.com/codewithjoe-tech/jcode-registry) — plugin registry
 
 ---
