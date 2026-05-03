@@ -42,3 +42,9 @@ So if you change `get_current_user`, `jcode_blast_radius` shows every route that
 ---
 
 Made by [Joel Thomas](https://codewithjoe.in)
+
+---
+
+## License
+
+MIT — free to use, modify, distribute, and build commercial products on top of. See [LICENSE](LICENSE).
